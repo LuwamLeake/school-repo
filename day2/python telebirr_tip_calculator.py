@@ -15,4 +15,4 @@ share = split_bill(bill_total, people)
 
 # Print the result
 for name in names:
-    print(f"{name} should pay {share:.2f} ETB")
+    print (f"{name} should pay {share:.2f} ETB")
