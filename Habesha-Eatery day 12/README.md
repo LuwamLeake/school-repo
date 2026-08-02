@@ -24,4 +24,4 @@ Habesha Eatery is a two-page website created for the CodeOps Module 2 Day 12 min
 3. Use the navigation menu to visit the Contact page.
 
 ## Author
-Solomon Birhanu
+Luwam Leake
